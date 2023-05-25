@@ -10,12 +10,14 @@ Lecture Notes
 03 - Data Types
 04 - Conditions and Conditional Statements
 05 - Intro to Lists
+
 Exercise
 01 - Arithmetic and Variables
 02 - Functions
 03 - Data Types
 04 - Conditions and Conditional Statements
 05 - Intro to Lists
+
 Tutorial 2 - Python
 Lecture Notes
 01 - Hello Python
@@ -24,6 +26,7 @@ Lecture Notes
 04 - Lists
 05 - Loops and List Comprehensions
 06 - Strings and Dictionaries
+
 Exercise
 01 - Syntax Variables and Numbers
 02 - Functions and Getting Help
@@ -32,6 +35,7 @@ Exercise
 05 - Loops and List Comprehensions
 06 - Strings and Dictionaries
 07 - Working with external Libraries
+
 Tutorial 3 - Intro to Machine Learning
 Lecture Notes
 01 - How Models Work
@@ -41,6 +45,7 @@ Lecture Notes
 05 - Underfitting and Overfitting
 06 - Random Forests
 07 - Machine Learning Competitions
+
 Exercise
 02 - Explore your data
 03 - Your First Machine Learning Model
@@ -48,6 +53,7 @@ Exercise
 05 - Underfitting and Overfitting
 06 - Random Forests
 07 - Machine Learning Competitions
+
 Tutorial 4 - Pandas
 Lecture Notes
 01 - Creating, Reading, and Writing
@@ -56,6 +62,7 @@ Lecture Notes
 04 - Grouping and Sorting
 05 - Data Types and Missing Values
 06 - Renaming and Combining
+
 Exercise
 01 - Creating, Reading, and Writing
 02 - Indexing, Selecting, and Assigning
@@ -63,6 +70,7 @@ Exercise
 04 - Grouping and Sorting
 05 - Data Types and Missing Values
 06 - Renaming and Combining
+
 Tutorial 5 - Intermediate to Machine Learning
 Lecture Notes
 01 - Introduction
@@ -72,6 +80,7 @@ Lecture Notes
 05 - Cross-Validation
 06 - XGBoost
 07 - Data Leakage
+
 Exercise
 01 - Introduction
 02 - Missing Values
@@ -80,6 +89,7 @@ Exercise
 05 - Cross-Validation
 06 - XGBoost
 07 - Data Leakage
+
 Tutorial 6 - Data Visualization
 Lecture Notes
 01 - Hello Seaborn
@@ -90,6 +100,7 @@ Lecture Notes
 06 - Choosing Ploat Types and Custom Styles
 07 - Final Project
 08 - Creating Your Own Notebook
+
 Exercise
 01 - Hello Seaborn
 02 - Line Charts
@@ -98,6 +109,7 @@ Exercise
 05 - Distributions
 06 - Choosing Ploat Types and Custom Styles
 07 - Final Project
+
 Tutorial 7 - Feature Engineering
 Lecture Notes
 01 - What is Feature Engineering
@@ -107,12 +119,14 @@ Lecture Notes
 05 - Principal Component Analysis
 06 - Target Encoding
 07 - Feature Engineering for house prices
+
 Exercise
 02 - Mutual Information
 03 - Creating Features
 04 - Clustering with K-Means
 05 - Principal Component Analysis
 06 - Target Encoding
+
 Tutorial 8 - SQL
 Lecture Notes
 01 - Getting Sstarted with SQL and Bigquery
@@ -121,6 +135,7 @@ Lecture Notes
 04 - Order By
 05 - As & With
 06 - Joining Data
+
 Exercise
 01 - Getting Sstarted with SQL and Bigquery
 02 - Select, From & Where
@@ -128,17 +143,20 @@ Exercise
 04 - Order By
 05 - As & With
 06 - Joining Data
+
 Tutorial 9 - Advanced SQL
 Lecture Notes
 01 - JOINs and UNIONs
 02 - Analytic Functions
 03 - Nested and Repeated Data
 04 - Writing Efficient Quries
+
 Exercise
 01 - JOINs and UNIONs
 02 - Analytic Functions
 03 - Nested and Repeated Data
 04 - Writing Efficient Quries
+
 Tutorial 10 - Introduction to Deep Learning
 Lecture Notes
 01 - A Single Neuron
@@ -147,6 +165,7 @@ Lecture Notes
 04 - Overfitting and Underfitting
 05 - Dropout and Batch Normalization
 06 - Binary Classification
+
 Exercise
 01 - A Single Neuron
 02 - Deep Neural Networks
@@ -154,6 +173,7 @@ Exercise
 04 - Overfitting and Underfitting
 05 - Dropout and Batch Normalization
 06 - Binary Classification
+
 Tutorial 11 - Computer Vision
 Lecture Notes
 01 - The Convolutional Classifier
@@ -162,6 +182,7 @@ Lecture Notes
 04 - The Sliding Window
 05 - Custom Convnets
 06 - Data Augmentation
+
 Exercise
 01 - The Convolutional Classifier
 02 - Convolution and ReLU
@@ -169,6 +190,7 @@ Exercise
 04 - The Sliding Window
 05 - Custom Convnets
 06 - Data Augmentation
+
 Tutorial 12 - Data Cleaning
 Lecture Notes
 01 - Handling Missing Values
@@ -176,6 +198,7 @@ Lecture Notes
 03 - Parsing Dates
 04 - Character Encodings
 05 - Inconsistent data Entry
+
 Exercise
 01 - Handling Missing Values
 02 - Scaling and Normalization
@@ -183,6 +206,7 @@ Exercise
 04 - Character Encodings
 05 - Inconsistent data Entry
 Tutorial 13 - Time Series
+
 Lecture Notes
 01 - Linear Regression With Time Series
 02 - Trend
@@ -190,6 +214,7 @@ Lecture Notes
 04 - Time Series as Features
 05 - Hybrid Models
 06 - Forecasting With Machine Learning
+
 Exercise
 01 - Linear Regression With Time Series
 02 - Trend
@@ -197,6 +222,7 @@ Exercise
 04 - Time Series as Features
 05 - Hybrid Models
 06 - Forecasting With Machine Learning
+
 Tutorial 14 - Intro to AI Ethics
 Lecture Notes
 01 - Introduction to AI Ethics
@@ -204,11 +230,13 @@ Lecture Notes
 03 - Identifying Bias in AI
 04 - AI Fairness
 05 - Model Cards
+
 Exercise
 02 - Human-Centered Design for AI
 03 - Identifying Bias in AI
 04 - AI Fairness
 05 - Model Cards
+
 Tutorial 15 - Geospatial Analysis
 Lecture Notes
 01 - Your First Map
@@ -216,12 +244,14 @@ Lecture Notes
 03 - Interactive Maps
 04 - Manipulating Geospatial Data
 05 - Proximity Analysis
+
 Exercise
 01 - Your First Map
 02 - Coordinate Reference Systems
 03 - Interactive Maps
 04 - Manipulating Geospatial Data
 05 - Proximity Analysis
+
 Tutorial 16 - Machine Learning Explainability
 Lecture Notes
 01 - Use Cases for Model Insights
@@ -229,17 +259,20 @@ Lecture Notes
 03 - Partial Plots
 04 - SHAP Values
 05 - Advanced Uses of SHAP Values
+
 Exercise
 02 - Pemutation Importance
 03 - Partial Plots
 04 - SHAP Values
 05 - Advanced Uses of SHAP Values
 Tutorial 17 - Intro to Game AI and Reinforcement Learning
+
 Lecture Notes
 01 - Play the Game
 02 - One-Step Lookahead
 03 - N-Step Lookahead
 04 - Deep Reinforcement Learning
+
 Exercise
 01 - Play the Game
 02 - One-Step Lookahead
