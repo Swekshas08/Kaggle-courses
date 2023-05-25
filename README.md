@@ -15,6 +15,7 @@ Tutorial 1 - Intro to Programming
 
 05 - Intro to Lists
 
+
 Tutorial 2 - Python
 
 01 - Syntax Variables and Numbers
@@ -31,6 +32,7 @@ Tutorial 2 - Python
 
 07 - Working with external Libraries
 
+
 Tutorial 3 - Intro to Machine Learning
 
 02 - Explore your data
@@ -45,6 +47,7 @@ Tutorial 3 - Intro to Machine Learning
 
 07 - Machine Learning Competitions
 
+
 Tutorial 4 - Pandas
 
 01 - Creating, Reading, and Writing
@@ -58,6 +61,7 @@ Tutorial 4 - Pandas
 05 - Data Types and Missing Values
 
 06 - Renaming and Combining
+
 
 Tutorial 5 - Intermediate to Machine Learning
 
@@ -75,6 +79,7 @@ Tutorial 5 - Intermediate to Machine Learning
 
 07 - Data Leakage
 
+
 Tutorial 6 - Data Visualization
 
 01 - Hello Seaborn
@@ -91,6 +96,7 @@ Tutorial 6 - Data Visualization
 
 07 - Final Project
 
+
 Tutorial 7 - Feature Engineering
 
 02 - Mutual Information
@@ -102,6 +108,7 @@ Tutorial 7 - Feature Engineering
 05 - Principal Component Analysis
 
 06 - Target Encoding
+
 
 Tutorial 8 - SQL
 
@@ -117,6 +124,7 @@ Tutorial 8 - SQL
 
 06 - Joining Data
 
+
 Tutorial 9 - Advanced SQL
 
 01 - JOINs and UNIONs
@@ -126,6 +134,7 @@ Tutorial 9 - Advanced SQL
 03 - Nested and Repeated Data
 
 04 - Writing Efficient Quries
+
 
 Tutorial 10 - Introduction to Deep Learning
 
@@ -141,6 +150,7 @@ Tutorial 10 - Introduction to Deep Learning
 
 06 - Binary Classification
 
+
 Tutorial 11 - Computer Vision
 
 01 - The Convolutional Classifier
@@ -155,6 +165,7 @@ Tutorial 11 - Computer Vision
 
 06 - Data Augmentation
 
+
 Tutorial 12 - Data Cleaning
 
 01 - Handling Missing Values
@@ -166,6 +177,7 @@ Tutorial 12 - Data Cleaning
 04 - Character Encodings
 
 05 - Inconsistent data Entry
+
 
 Tutorial 13 - Time Series
 
@@ -181,6 +193,7 @@ Tutorial 13 - Time Series
 
 06 - Forecasting With Machine Learning
 
+
 Tutorial 14 - Intro to AI Ethics
 
 02 - Human-Centered Design for AI
@@ -190,6 +203,7 @@ Tutorial 14 - Intro to AI Ethics
 04 - AI Fairness
 
 05 - Model Cards
+
 
 Tutorial 15 - Geospatial Analysis
 
@@ -203,6 +217,7 @@ Tutorial 15 - Geospatial Analysis
 
 05 - Proximity Analysis
 
+
 Tutorial 16 - Machine Learning Explainability
 
 02 - Pemutation Importance
@@ -212,6 +227,7 @@ Tutorial 16 - Machine Learning Explainability
 04 - SHAP Values
 
 05 - Advanced Uses of SHAP Values
+
 
 Tutorial 17 - Intro to Game AI and Reinforcement Learning
 
