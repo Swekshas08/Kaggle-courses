@@ -1,5 +1,5 @@
 # Kaggle-courses
-Lecture notes and programming exercise from all Tutorials on Kaggle. You can find all my works here.
+Programming exercise from all Tutorials on Kaggle. You can find all my works here.
 
 If it's helpful for you, please star this repository and follow me.
 
