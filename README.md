@@ -5,7 +5,6 @@ If it's helpful for you, please star this repository and follow me.
 
 Tutorial 1 - Intro to Programming
 
-Exercise
 01 - Arithmetic and Variables
 
 02 - Functions
@@ -17,7 +16,7 @@ Exercise
 05 - Intro to Lists
 
 Tutorial 2 - Python
-Exercise
+
 01 - Syntax Variables and Numbers
 
 02 - Functions and Getting Help
@@ -34,7 +33,6 @@ Exercise
 
 Tutorial 3 - Intro to Machine Learning
 
-Exercise
 02 - Explore your data
 
 03 - Your First Machine Learning Model
@@ -49,7 +47,6 @@ Exercise
 
 Tutorial 4 - Pandas
 
-Exercise
 01 - Creating, Reading, and Writing
 
 02 - Indexing, Selecting, and Assigning
@@ -64,7 +61,6 @@ Exercise
 
 Tutorial 5 - Intermediate to Machine Learning
 
-Exercise
 01 - Introduction
 
 02 - Missing Values
@@ -81,7 +77,6 @@ Exercise
 
 Tutorial 6 - Data Visualization
 
-Exercise
 01 - Hello Seaborn
 
 02 - Line Charts
@@ -98,7 +93,6 @@ Exercise
 
 Tutorial 7 - Feature Engineering
 
-Exercise
 02 - Mutual Information
 
 03 - Creating Features
@@ -111,7 +105,6 @@ Exercise
 
 Tutorial 8 - SQL
 
-Exercise
 01 - Getting Sstarted with SQL and Bigquery
 
 02 - Select, From & Where
@@ -126,7 +119,6 @@ Exercise
 
 Tutorial 9 - Advanced SQL
 
-Exercise
 01 - JOINs and UNIONs
 
 02 - Analytic Functions
@@ -136,7 +128,7 @@ Exercise
 04 - Writing Efficient Quries
 
 Tutorial 10 - Introduction to Deep Learning
-Exercise
+
 01 - A Single Neuron
 
 02 - Deep Neural Networks
@@ -150,7 +142,7 @@ Exercise
 06 - Binary Classification
 
 Tutorial 11 - Computer Vision
-Exercise
+
 01 - The Convolutional Classifier
 
 02 - Convolution and ReLU
@@ -165,7 +157,6 @@ Exercise
 
 Tutorial 12 - Data Cleaning
 
-Exercise
 01 - Handling Missing Values
 
 02 - Scaling and Normalization
@@ -177,7 +168,7 @@ Exercise
 05 - Inconsistent data Entry
 
 Tutorial 13 - Time Series
-Exercise
+
 01 - Linear Regression With Time Series
 
 02 - Trend
@@ -192,7 +183,6 @@ Exercise
 
 Tutorial 14 - Intro to AI Ethics
 
-Exercise
 02 - Human-Centered Design for AI
 
 03 - Identifying Bias in AI
@@ -202,7 +192,7 @@ Exercise
 05 - Model Cards
 
 Tutorial 15 - Geospatial Analysis
-Exercise
+
 01 - Your First Map
 
 02 - Coordinate Reference Systems
@@ -214,7 +204,7 @@ Exercise
 05 - Proximity Analysis
 
 Tutorial 16 - Machine Learning Explainability
-Exercise
+
 02 - Pemutation Importance
 
 03 - Partial Plots
@@ -225,7 +215,6 @@ Exercise
 
 Tutorial 17 - Intro to Game AI and Reinforcement Learning
 
-Exercise
 01 - Play the Game
 
 02 - One-Step Lookahead
